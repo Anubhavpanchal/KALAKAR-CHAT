@@ -142,7 +142,7 @@ const SignUpPage = () => {
           <div className="text-center">
             <p className="text-base-content/60">
               Already have an account?{" "}
-              <Link to="/login" className="link link-primary">Sign in</Link>
+              <Link to="/login" className="link link-primary">Log in</Link>
             </p>
           </div>
         </div>
@@ -151,7 +151,7 @@ const SignUpPage = () => {
       {/* Right Side */}
       <AuthImagePattern
         title="Join our community"
-        subtitle="Connect with friends, share moments, and stay in touch with your loved ones."
+        subtitle="Create a new account and Connect with friends, share moments, and stay in touch with your loved ones."
       />
     </div>
   );
